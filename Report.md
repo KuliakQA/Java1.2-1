@@ -7,13 +7,13 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Результат пополнения счета VIP-клиента свыше 2.500.000.000 выводится некорректно](https://github.com/KuliakQA/Java1.2-1/issues/1#issue-892373152)
+* [Результат пополнения счета VIP-клиента свыше 2.500.000.000 выводится некорректно](https://github.com/KuliakQA/java1.2-1/issues/1#issue-892383128)
 
 ## Описание процесса тестирования
 
 *В процессе тестирования использовались следующие артефакты*:
 
-* Код [public class Main](https://raw.githubusercontent.com/KuliakQA/Java1.2-1/master/src/Main.java)
+* Код [public class Main](https://raw.githubusercontent.com/KuliakQA/java1.2-1/master/Main.java)
 * IntelliJ IDEA
 
 
